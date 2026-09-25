@@ -1,17 +1,11 @@
 {
-  "$schema": "https://mintlify.com/docs.json",
-  "name": "1501 Tulane — HAHC Opposition Record",
+  "projectType": "general",
+  "projectName": "1501 Tulane — HAHC Opposition Record",
+  "projectDescription": "Formal opposition record to Certificate of Appropriateness applications HP2026-0244 and HP2026-0248 for 1505 Tulane Street, documenting boundary disputes, code violations, and design guideline deficiencies before the Houston Archaeological and Historical Commission.",
   "theme": "willow",
-  "colors": {
-    "primary": "#141231",
-    "light": "#6b2d3e",
-    "dark": "#22709f"
-  },
-  "logo": {
-    "light": "https://media.brand.dev/3931ada9-b4c2-4a90-b330-510aa37875f7.png",
-    "dark": "https://media.brand.dev/3931ada9-b4c2-4a90-b330-510aa37875f7.png"
-  },
-  "favicon": "https://media.brand.dev/83950d30-5e70-4aa6-8f11-9c7e53861c28.png",
+  "primaryColor": "#141231",
+  "lightColor": "#6b2d3e",
+  "darkColor": "#22709f",
   "navigation": {
     "tabs": [
       {
@@ -91,5 +85,30 @@
         ]
       }
     ]
-  }
+  },
+  "keyFeatures": [
+    "Boundary dispute with fluctuating southern property line (3–5 ft shift)",
+    "Unapproved lot combination — no recorded Replat or Agreement to Bind Properties",
+    "Cumulative side setback violation (12 ft shown vs. 15 ft required for two-story)",
+    "Per-lot FAR violations when lots evaluated independently",
+    "Attached garage misclassified as detached — 528 sq ft FAR exemption invalid",
+    "Driveway retention violation under Houston Heights Design Guidelines",
+    "Context area misrepresentation — camelbacks labeled as full two-story",
+    "Multiple building code, fire code, and life safety violations",
+    "Street survey pin evidence corroborating historic retaining wall boundary",
+    "Texas adverse possession and boundary-by-acquiescence legal claims",
+    "Internal inconsistencies and arithmetic errors in COA submittals",
+    "Soil boring without required permits"
+  ],
+  "publicApiSurface": [
+    "COA Application HP2026-0244 — Garage & Apartment",
+    "COA Application HP2026-0248 — Main House Addition & Rehabilitation",
+    "Houston Heights Design Guidelines Section 5 (Feb. 2018)",
+    "City of Houston Chapter 42 — Subdivisions & Development",
+    "City of Houston Chapter 33 — Historic Preservation",
+    "Texas Civil Practice & Remedies Code §§ 16.021, 16.026",
+    "IRC Table R302.1 — Fire-Rated Wall Construction",
+    "HAHC Hearing — September 10, 2026 (deferred)",
+    "HAHC Hearing — September 24, 2026 (opposition filing)"
+  ]
 }
